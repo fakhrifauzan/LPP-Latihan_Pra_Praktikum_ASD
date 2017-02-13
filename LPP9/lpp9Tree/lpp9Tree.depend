@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1479774556 source:d:\cplusplus\lpp9tree\bstree.cpp
+	"bstree.h"
+
+1479773921 d:\cplusplus\lpp9tree\bstree.h
+	<iostream>
+
+1479774709 source:d:\cplusplus\lpp9tree\main.cpp
+	<iostream>
+	"bstree.h"
+
