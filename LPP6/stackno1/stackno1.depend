@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1477925901 source:d:\_telkom university\struktur data\lpp\lpp6\stackno1\main.cpp
+	"stack.h"
+
+1477894442 d:\_telkom university\struktur data\lpp\lpp6\stackno1\stack.h
+	<iostream>
+
+1477926948 source:d:\_telkom university\struktur data\lpp\lpp6\stackno1\stack.cpp
+	"stack.h"
+

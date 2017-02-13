@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1474870354 source:d:\cplusplus\lpp4\doublelist.cpp
+	"doublelist.h"
+
+1474733858 d:\cplusplus\lpp4\doublelist.h
+	<iostream>
+	<stdlib.h>
+
+1474811401 source:d:\cplusplus\lpp4\main.cpp
+	<iostream>
+	"doublelist.h"
+

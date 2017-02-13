@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1473655416 source:d:\asd\tepe_no3\main.cpp
+	<iostream>
+	"siswa.h"
+
+1473655452 d:\asd\tepe_no3\siswa.h
+
+1473658243 source:d:\asd\tepe_no3\siswa.cpp
+	<iostream>
+	"siswa.h"
+
+1473655416 source:d:\_telkom university\struktur data\lpp\lpp2\tepe_no3\main.cpp
+	<iostream>
+	"siswa.h"
+
+1473655452 d:\_telkom university\struktur data\lpp\lpp2\tepe_no3\siswa.h
+
+1473658243 source:d:\_telkom university\struktur data\lpp\lpp2\tepe_no3\siswa.cpp
+	<iostream>
+	"siswa.h"
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1474333050 source:d:\asd\lpp3\no_1nih\main.cpp
+	<iostream>
+	<conio.h>
+	"singlelist.h"
+
+1474334585 d:\asd\lpp3\no_1nih\singlelist.h
+	<iostream>
+	<stdlib.h>
+
+1474335121 source:d:\asd\lpp3\no_1nih\singlelist.cpp
+	"singlelist.h"
+

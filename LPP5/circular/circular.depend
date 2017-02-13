@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1475538486 source:d:\cplusplus\circular\circular.cpp
+	"circular.h"
+
+1475454729 d:\cplusplus\circular\circular.h
+	<iostream>
+
+1475513471 source:d:\cplusplus\circular\main.cpp
+	<iostream>
+	"circular.h"
+	<conio.h>
+
